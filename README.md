@@ -15,4 +15,4 @@ In raining mode, a raining background comes up and then animation of rain falls.
 ![night_mode](https://user-images.githubusercontent.com/45432279/54081389-65fac280-432e-11e9-8c5e-024d37225aad.png)
 
 
-In night mode, Night background comes up and air plane ,bird and star coming animatiton start ..
+In night mode, Night background comes up and air plane ,bird and star coming animation start and start a backgroud music of airplane flying ..
